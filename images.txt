@@ -7,3 +7,4 @@ dokken/centos-stream-9
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+pgvector/pgvector:0.7.0-pg15
