@@ -8,3 +8,4 @@ dokken/centos-stream-9
 #--platform=linux/arm64 xiaoyaliu/alist
 
 pgvector/pgvector:0.7.0-pg15
+mongo:5.0.18
