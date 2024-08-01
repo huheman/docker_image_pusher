@@ -15,3 +15,4 @@ ghcr.io/songquanpeng/one-api
 snowdreamtech/frps
 snowdreamtech/frpc
 openjdk:8u191-alpine
+portainer/portainer-ce:alpine-sts
