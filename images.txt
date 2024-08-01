@@ -14,4 +14,4 @@ ghcr.io/labring/fastgpt-sandbox
 ghcr.io/songquanpeng/one-api
 snowdreamtech/frps
 snowdreamtech/frpc
-penjdk:8u191-alpine3.8
+penjdk:8u191-alpine
