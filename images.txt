@@ -18,3 +18,4 @@ openjdk:8u191-alpine
 portainer/portainer-ce:alpine-sts
 nvidia/cuda:12.1.0-base-ubi8
 nvcr.io/nvidia/tritonserver:24.07-py3
+nvcr.io/nvidia/tritonserver:24.07-py3-sdk
