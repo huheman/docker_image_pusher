@@ -26,6 +26,7 @@ minio/minio:latest
 mongo:4
 kibana:7.17.3
 logstash:7.17.3
+openjdk:8
 elasticsearch:7.17.3
 rabbitmq:3.9.11-management
 redis:7
