@@ -32,3 +32,4 @@ rabbitmq:3.9.11-management
 redis:7
 redis/redisinsight:latest
 nacos/nacos-server:v2.1.0
+openjdk:17
