@@ -33,3 +33,4 @@ redis:7
 redis/redisinsight:latest
 nacos/nacos-server:v2.1.0
 openjdk:17
+python:3.10-slim
